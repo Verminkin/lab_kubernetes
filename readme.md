@@ -21,7 +21,7 @@ Before you begin the installation process, make sure you have the following prer
 
 ### Ubuntu 
 
-To install Docker and Kubernetes on your system, please follow the steps provided in the [Installation Guide](installation-guide.md). The guide covers the following steps:
+To install Docker and Kubernetes on your system, please follow the steps provided in the [Installation Guide](Install/Ubuntu_serveur_install.md). The guide covers the following steps:
 
 1. Update and upgrade the system packages.
 2. Install Docker.
@@ -35,7 +35,7 @@ Please refer to the detailed installation guide for more information on each ste
 
 ### Vagrant 
 
-- Vagrant: If you prefer to use virtual machines for testing purposes, you can find Vagrant configurations in the [vagrant](vagrant/) directory.
+- Vagrant: If you prefer to use virtual machines for testing purposes, you can find Vagrant configurations in the [vagrant](Install/vagrant.md) directory.
 
 ## Additional Tools and Resources
 

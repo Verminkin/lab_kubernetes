@@ -42,7 +42,7 @@ Please refer to the detailed installation guide for more information on each ste
 In addition to Docker and Kubernetes installation, this repository provides resources and tools to support your journey in DevSecOps. You can explore the following:
 
 - Tooling and Best Practices: The [tools](tools/) directory contains examples and guides for various DevSecOps tools and best practices.
-- Additional Resources: Check out the [resources](resources/) directory for further learning materials, including articles, tutorials, and recommended books.
+- Additional Resources: Check out the [resources](ressources/) directory for further learning materials, including articles, tutorials, and recommended books.
 
 We encourage you to explore these resources to enhance your understanding of DevSecOps and further improve your skills as a developer or DevOps professional.
 

@@ -35,7 +35,7 @@ Please refer to the detailed installation guide for more information on each ste
 
 ### Vagrant 
 
-- Vagrant: If you prefer to use virtual machines for testing purposes, you can find Vagrant configurations in the [vagrant](Install/vagrant.md) directory.
+- Vagrant: If you prefer to use virtual machines for testing purposes, you can find Vagrant configurations in the [vagrant](Install/Vagrant.md) directory.
 
 ## Additional Tools and Resources
 
